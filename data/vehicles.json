@@ -1,0 +1,92 @@
+[
+  {
+    "id": "v001",
+    "registration": "KCB 123A",
+    "capacity": 14,
+    "route": "CBD - Kibera",
+    "dailyTarget": 5000,
+    "status": "active",
+    "assignedDriverId": "d001"
+  },
+  {
+    "id": "v002",
+    "registration": "KCA 456B",
+    "capacity": 14,
+    "route": "CBD - Kasarani",
+    "dailyTarget": 4500,
+    "status": "active",
+    "assignedDriverId": "d002"
+  },
+  {
+    "id": "v003",
+    "registration": "KCD 789C",
+    "capacity": 33,
+    "route": "CBD - Ngong",
+    "dailyTarget": 6000,
+    "status": "active",
+    "assignedDriverId": "d005"
+  },
+  {
+    "id": "v004",
+    "registration": "KCY 200M",
+    "capacity": 14,
+    "route": "Nairobi - Kabarnet",
+    "dailyTarget": 4500,
+    "status": "active",
+    "assignedDriverId": "d003"
+  },
+  {
+    "id": "v005",
+    "registration": "KCC 129F",
+    "capacity": 29,
+    "route": "Kisumu - Nairobi",
+    "dailyTarget": 12000,
+    "status": "active",
+    "assignedDriverId": "d004"
+  },
+  {
+    "id": "v006",
+    "registration": "KDL 200K",
+    "capacity": 14,
+    "route": "Kissi - Nairobi",
+    "dailyTarget": 7500,
+    "status": "active",
+    "assignedDriverId": null
+  },
+  {
+    "id": "v007",
+    "registration": "KAL 200L",
+    "capacity": 14,
+    "route": "Eldoret - Nakuru",
+    "dailyTarget": 4500,
+    "status": "active",
+    "assignedDriverId": null
+  },
+  {
+    "id": "v008",
+    "registration": "KBL 123O",
+    "capacity": 14,
+    "route": "Mombasa - Nairobi",
+    "dailyTarget": 4500,
+    "status": "active",
+    "assignedDriverId": null
+  },
+  {
+    "id": "v009",
+    "registration": "KDE 145P",
+    "capacity": 14,
+    "route": "CBD - Karen",
+    "dailyTarget": 5000,
+    "status": "active",
+    "assignedDriverId": null
+  },
+  {
+    "id": "v010",
+    "registration": "KCL 145C",
+    "capacity": 14,
+    "route": "Machakos - Nairobi",
+    "dailyTarget": 4550,
+    "status": "active",
+    "assignedDriverId": null
+  }
+]

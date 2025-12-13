@@ -1,0 +1,82 @@
+[
+  {
+    "id": "d001",
+    "name": "John Kamau",
+    "phone": "+254712345678",
+    "licenseNumber": "DL12345",
+    "licenseExpiry": "2025-12-31",
+    "assignedVehicleId": "v001"
+  },
+  {
+    "id": "d002",
+    "name": "Mary Wanjiku",
+    "phone": "+254723456789",
+    "licenseNumber": "DL23456",
+    "licenseExpiry": "2026-06-30",
+    "assignedVehicleId": "v002"
+  },
+  {
+    "id": "d003",
+    "name": "Peter Ochieng",
+    "phone": "+254734567890",
+    "licenseNumber": "DL34567",
+    "licenseExpiry": "2025-12-20",
+    "assignedVehicleId": "v004"
+  },
+  {
+    "id": "d004",
+    "name": "Brian Bob",
+    "phone": "+254712343456",
+    "licenseNumber": "DL1234564",
+    "licenseExpiry": "2026-01-01",
+    "assignedVehicleId": "v005"
+  },
+  {
+    "id": "d005",
+    "name": "Sarah Njeri",
+    "phone": "+254745678901",
+    "licenseNumber": "DL45678",
+    "licenseExpiry": "2026-03-15",
+    "assignedVehicleId": null
+  },
+  {
+    "id": "d001",
+    "name": "John Kamau",
+    "phone": "+254712345678",
+    "licenseNumber": "DL12345",
+    "licenseExpiry": "2025-12-31",
+    "assignedVehicleId": "v001"
+  },
+  {
+    "id": "d002",
+    "name": "Mary Wanjiku",
+    "phone": "+254723456789",
+    "licenseNumber": "DL23456",
+    "licenseExpiry": "2026-06-30",
+    "assignedVehicleId": "v002"
+  },
+  {
+    "id": "d003",
+    "name": "Peter Ochieng",
+    "phone": "+254734567890",
+    "licenseNumber": "DL34567",
+    "licenseExpiry": "2025-12-20",
+    "assignedVehicleId": null
+  },
+  {
+    "id": "d004",
+    "name": "Jane Akinyi",
+    "phone": "+254745678901",
+    "licenseNumber": "DL45678",
+    "licenseExpiry": "2026-03-15",
+    "assignedVehicleId": "v003"
+  },
+  {
+    "id": "d005",
+    "name": "David Mwangi",
+    "phone": "+254756789012",
+    "licenseNumber": "DL56789",
+    "licenseExpiry": "2026-08-22",
+    "assignedVehicleId": "v004"
+  }
+]

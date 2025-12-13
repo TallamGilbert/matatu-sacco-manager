@@ -1,0 +1,6 @@
+ID,Registration,Capacity,Route,Daily Target,Status,Assigned Driver ID
+v001,KCB 123A,14,CBD - Kibera,5000,active,d001
+v002,KCA 456B,14,CBD - Kasarani,4500,active,d002
+v003,KCD 789C,33,CBD - Ngong,6000,active,d005
+v004,KCY 200M,14,Nairobi - Kabarnet,4500,active,d003
+v005,KCC 129F,29,Kisumu - Nairobi,12000,active,d004

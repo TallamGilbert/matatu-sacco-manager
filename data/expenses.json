@@ -1,0 +1,170 @@
+[
+  {
+    "id": "e001",
+    "vehicleId": "v001",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 3000,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "e002",
+    "vehicleId": "v002",
+    "category": "repair",
+    "description": "Brake pad replacement",
+    "amount": 5000,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "e001",
+    "vehicleId": "v001",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 3000,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "e002",
+    "vehicleId": "v002",
+    "category": "repair",
+    "description": "Brake pad replacement",
+    "amount": 5000,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "e003",
+    "vehicleId": "v001",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 2800,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "e004",
+    "vehicleId": "v002",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 2900,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "e005",
+    "vehicleId": "v001",
+    "category": "fine",
+    "description": "Parking violation",
+    "amount": 500,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "e006",
+    "vehicleId": "v002",
+    "category": "insurance",
+    "description": "Monthly insurance premium",
+    "amount": 8000,
+    "date": "2025-12-01"
+  },
+  {
+    "id": "e007",
+    "vehicleId": "v005",
+    "category": "fuel",
+    "description": "Fuel topup",
+    "amount": 1200,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "e008",
+    "vehicleId": "v004",
+    "category": "repair",
+    "description": "Rear bumper replacement",
+    "amount": 23000,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "e009",
+    "vehicleId": "v001",
+    "category": "fuel",
+    "description": "Diesel refill - full tank",
+    "amount": 3200,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "e001",
+    "vehicleId": "v001",
+    "category": "fuel",
+    "description": "Diesel refill - full tank",
+    "amount": 3000,
+    "date": "2025-12-05"
+  },
+  {
+    "id": "e002",
+    "vehicleId": "v002",
+    "category": "repair",
+    "description": "Brake pad replacement",
+    "amount": 5000,
+    "date": "2025-12-04"
+  },
+  {
+    "id": "e003",
+    "vehicleId": "v001",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 2800,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "e004",
+    "vehicleId": "v002",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 2900,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "e005",
+    "vehicleId": "v001",
+    "category": "fine",
+    "description": "Parking violation - CBD",
+    "amount": 500,
+    "date": "2025-12-06"
+  },
+  {
+    "id": "e006",
+    "vehicleId": "v002",
+    "category": "insurance",
+    "description": "Monthly insurance premium",
+    "amount": 8000,
+    "date": "2025-12-01"
+  },
+  {
+    "id": "e007",
+    "vehicleId": "v003",
+    "category": "repair",
+    "description": "Engine oil change and filter",
+    "amount": 3500,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "e008",
+    "vehicleId": "v004",
+    "category": "fuel",
+    "description": "Diesel refill",
+    "amount": 3200,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "e009",
+    "vehicleId": "v003",
+    "category": "fuel",
+    "description": "Diesel refill - full tank",
+    "amount": 4500,
+    "date": "2025-12-06"
+  },
+  {
+    "id": "e010",
+    "vehicleId": "v001",
+    "category": "other",
+    "description": "Car wash and interior cleaning",
+    "amount": 800,
+    "date": "2025-12-10"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c001",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-10",
+    "amount": 5500
+  },
+  {
+    "id": "c002",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-10",
+    "amount": 4200
+  },
+  {
+    "id": "c003",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-11",
+    "amount": 5300
+  },
+  {
+    "id": "c004",
+    "vehicleId": "v004",
+    "driverId": "d003",
+    "date": "2025-12-12",
+    "amount": 6000
+  },
+  {
+    "id": "c001",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-05",
+    "amount": 5500
+  },
+  {
+    "id": "c002",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-05",
+    "amount": 4200
+  },
+  {
+    "id": "c003",
+    "vehicleId": "v003",
+    "driverId": "d004",
+    "date": "2025-12-05",
+    "amount": 6200
+  },
+  {
+    "id": "c004",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-06",
+    "amount": 5300
+  },
+  {
+    "id": "c005",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-06",
+    "amount": 4800
+  },
+  {
+    "id": "c006",
+    "vehicleId": "v003",
+    "driverId": "d004",
+    "date": "2025-12-06",
+    "amount": 5900
+  },
+  {
+    "id": "c007",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-07",
+    "amount": 5600
+  },
+  {
+    "id": "c008",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-07",
+    "amount": 4100
+  },
+  {
+    "id": "c009",
+    "vehicleId": "v003",
+    "driverId": "d004",
+    "date": "2025-12-07",
+    "amount": 6500
+  },
+  {
+    "id": "c010",
+    "vehicleId": "v004",
+    "driverId": "d005",
+    "date": "2025-12-07",
+    "amount": 5200
+  },
+  {
+    "id": "c011",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-08",
+    "amount": 5400
+  },
+  {
+    "id": "c012",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-08",
+    "amount": 4600
+  },
+  {
+    "id": "c013",
+    "vehicleId": "v004",
+    "driverId": "d005",
+    "date": "2025-12-08",
+    "amount": 4900
+  },
+  {
+    "id": "c014",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-09",
+    "amount": 5700
+  },
+  {
+    "id": "c015",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-09",
+    "amount": 4300
+  },
+  {
+    "id": "c016",
+    "vehicleId": "v003",
+    "driverId": "d004",
+    "date": "2025-12-09",
+    "amount": 6100
+  },
+  {
+    "id": "c017",
+    "vehicleId": "v001",
+    "driverId": "d001",
+    "date": "2025-12-10",
+    "amount": 5800
+  },
+  {
+    "id": "c018",
+    "vehicleId": "v002",
+    "driverId": "d002",
+    "date": "2025-12-10",
+    "amount": 4400
+  },
+  {
+    "id": "c019",
+    "vehicleId": "v003",
+    "driverId": "d004",
+    "date": "2025-12-10",
+    "amount": 6300
+  },
+  {
+    "id": "c020",
+    "vehicleId": "v004",
+    "driverId": "d005",
+    "date": "2025-12-10",
+    "amount": 5100
+  }
+]

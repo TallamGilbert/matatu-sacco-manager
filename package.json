@@ -1,0 +1,27 @@
+{
+  "name": "matatu-sacco-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fleet management system for Matatu Saccos",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "matatu",
+    "sacco",
+    "fleet-management"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.26",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.9.3"
+  }
+}

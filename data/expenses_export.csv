@@ -1,0 +1,12 @@
+ID,Date,Vehicle Registration,Category,Description,Amount
+e001,2025-12-10,KCB 123A,fuel,Diesel refill,3000
+e002,2025-12-09,KCA 456B,repair,Brake pad replacement,5000
+e001,2025-12-10,KCB 123A,fuel,Diesel refill,3000
+e002,2025-12-09,KCA 456B,repair,Brake pad replacement,5000
+e003,2025-12-11,KCB 123A,fuel,Diesel refill,2800
+e004,2025-12-11,KCA 456B,fuel,Diesel refill,2900
+e005,2025-12-10,KCB 123A,fine,Parking violation,500
+e006,2025-12-01,KCA 456B,insurance,Monthly insurance premium,8000
+e007,2025-12-12,KCC 129F,fuel,Fuel topup,1200
+e008,2025-12-08,KCY 200M,repair,Rear bumper replacement,23000
+e009,2025-12-12,KCB 123A,fuel,Diesel refill - full tank,3200
