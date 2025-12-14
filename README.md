@@ -1,6 +1,6 @@
 # Matatu Sacco Manager
 
-A comprehensive command-line fleet management system for Matatu Saccos in Kenya. Built with TypeScript/Node.js.
+A comprehensive command-line fleet management system for Matatu Saccos in Kenya. Built with TypeScript.
 
 ##  Project Overview
 
